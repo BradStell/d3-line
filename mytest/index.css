@@ -1,0 +1,25 @@
+.axis .x path {
+  display: none;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.0px;
+  shape-rendering: crispEdges;
+}
+
+.text-anchor {
+  fill: black;
+}
+
+.axis text {
+  fill: black;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
